@@ -6,7 +6,7 @@ This project showcases my skills, projects, and experience as a Full Stack Larav
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/portfolio/
+🔗 https://rehman3252.github.io/portfolio/
 
 ---
 
